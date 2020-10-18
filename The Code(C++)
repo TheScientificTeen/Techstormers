@@ -1,0 +1,60 @@
+#include<iostream>
+using namespace std;
+
+int main()
+  {
+      int answer,answerq1,answerq2,answerq3,answerq4,answerq5,answerq6,total;
+//questions asking if the user wants to avail the services of the application
+      cout<< "\nWould you like to take the quiz or proceed to the COVID'19 map? \n Answer : ' proceed:1' or ' decline:2'";
+      cin>> answer;
+
+      if(answer<2)
+        {//The user is asked questions concerning his/her recent health symptoms and experiences
+        cout<<"\nHere are your questions. \n Answer them in the format as specified =if yes:1 no:0 \n";
+
+        cout<<"\nDo you experience dry coughs?";
+        cin>> answerq1;
+
+        cout<<"\nIs your body temperature above normal?\n";
+        cin>> answerq2;
+
+        cout<< "\nDo you experience tiredness or muscle weakness?\n ";
+        cin>> answerq3;
+
+        cout<< "\nAny difficulties such as difficulty in breathing or interstitial pressure?\n";
+        cin>> answerq4;
+
+        cout<< "\ndo you have nasal congestion or runny nose?\n";
+        cin>>answerq5;
+
+        cout<<"\nHave you of your knowledge come in contact with any other covid positive or feverish person?\n";
+        cin>>answerq6;
+
+        total=answerq1+answerq2+answerq3+answerq4+answerq5+answerq6;
+            if(total<=3)
+             {
+                 cout<< "\n Today's your lucky day! Have fun!";
+             }
+             else{
+                cout<< "\n Looks like you have quite some risk! Take care, stay safe!";
+             }
+        }
+        else{
+            cout<<"\n thank you for answering, you may proceed";
+        };
+        //Following the decision made by the user, the application asks if the map is to be displayed or be terminated
+        int answerx;
+        cout<< "\nWould you like to view the map(1) or quit the app(2)";
+        cin>> answerx;
+        //the process terminates and the application closes.
+        if(answerx>1){
+            cout<<     "\nThank you for joining us in staying cautious of this pandemic. Have a good day. \nPlease remember to take all the necessary precautions as mandated by the government. \nWash your hand thoroughly. \nWe advice leaving any goods purchased outside in the sun for a while. \nIf you are wanting to visit this place masks are a must along with pocket sanitizers to use whenever needed.\nYou can also take the steps such as home quarantining as per your informed decision ";}
+            else{
+                int location1,time1;
+                cout<<"\nPlease choose your location \n (0)Mall, \n (1)Restaurant, \n (2)Supermarkt, \n (3)Theatre, \n (4)Book store, \n (5)NetCafe";
+                cin>> location1;
+                cout<<"\nHere are your choices : \n (0)12-4 AM \n (1)4-8AM \n (2)8AM-12PM \n (3)12-4PM \n (4)4-8PM \n (5)8-12 PM";
+                cin>> time1;
+                cout<<"\n Here's the data: \n High risk individuals=15 \n Medium risk individuals=100 \n low risk individuals = 246";//here, the data that has been fed by the servers by the means of the app's quiz is output. For representational purposes, a fixed set of values are displayed.
+                cout<<"\nThank you for joining us in staying cautious of this pandemic. Have a good day. \nPlease remember to take all the necessary precautions as mandated by the government. \nWash your hand thoroughly. \nWe advice leaving any goods purchased outside in the sun for a while. \nIf you are wanting to visit this place masks are a must along with pocket sanitizers to use whenever needed. \nYou can also take the steps such as home quarantining as per your informed decision";}
+        };
