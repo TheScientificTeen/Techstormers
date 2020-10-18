@@ -19,15 +19,19 @@ Our idea is to create an app which can help in preventing the spread of future e
 ### Update 2 - 16 Hours Mark
 * *Have you made any new Ideas?**
 
-<ANSWER AS PARAGRAPH / BULLET POINTS>
+Yes, we have continued to build up on our core ideas and have made improvements that will make the overall quality better.
 
 * *Could you list some more ideas you plan to implement in your project?*
 
-<ANSWER AS PARAGRAPH / BULLET POINTS>
+we have implemented a few more ideas into our project such as:
+1. We've added a home page. 
+2. Live covid 19 data in the home page. 
+3. We've added an interactive map whihc allows the user to select the area and the time slot. 
+4. We've added a new feature which advises the users on the nessesary precautions which need to be taken to visit a place or after returning from a place.
 
 * *Comments?*
 
-<ANSWER AS PARAGRAPH / BULLET POINTS>
+It's been a really good and unique experience so far and we've learnt a lot in the topics on which we're basing our project apon. 
 
 ### Update 1 - 8 Hours Mark
 * *Have you made any new Ideas?*
