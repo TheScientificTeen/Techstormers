@@ -58,7 +58,7 @@ List of ideas we are trying to implement:
 
 * *What language (programming) are you using?*
 
-We have chosen C++ as our language of choice due to its simplicity and our existing knowledge of it.
+We have chosen C++ as our language of choice due to its simplicity and our existing knowledge of it. we also opted out of using complex codes and made use of an ideaicentric approach to create the project. We expect to hone our coding skills and create more complex codes in the future with more Hackathons.
 
 * *Comments?*
 
