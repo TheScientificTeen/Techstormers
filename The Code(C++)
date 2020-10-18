@@ -54,7 +54,7 @@ int main()
                 cout<<"\nPlease choose your location \n (0)Mall, \n (1)Restaurant, \n (2)Supermarkt, \n (3)Theatre, \n (4)Book store, \n (5)NetCafe";
                 cin>> location1;
                 cout<<"\nHere are your choices : \n (0)12-4 AM \n (1)4-8AM \n (2)8AM-12PM \n (3)12-4PM \n (4)4-8PM \n (5)8-12 PM";
-                cin>> time1;
+                cin>> time1; //These are to be represented in a neat and orderly manner with an output screen, which we couldn't present due to the lack of coding expertise.
                 cout<<"\n Here's the data: \n High risk individuals=15 \n Medium risk individuals=100 \n low risk individuals = 246";//here, the data that has been fed by the servers by the means of the app's quiz is output. For representational purposes, a fixed set of values are displayed.
                 cout<<"\nThank you for joining us in staying cautious of this pandemic. Have a good day. \nPlease remember to take all the necessary precautions as mandated by the government. \nWash your hand thoroughly. \nWe advice leaving any goods purchased outside in the sun for a while. \nIf you are wanting to visit this place masks are a must along with pocket sanitizers to use whenever needed. \nYou can also take the steps such as home quarantining as per your informed decision";}
         };
