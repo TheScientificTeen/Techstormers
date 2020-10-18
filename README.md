@@ -73,10 +73,10 @@ So far this has been a very fun first experience of a hackathon to all of us and
 ### References and Acknowledges
 
 Any references taken?
-https://covid19.who.int/ 
-https://www.cdc.gov/coronavirus/2019-ncov/index.html 
-https://www.covid19india.org/
-https://www.worldometers.info/coronavirus/?%3D%3D
+1. https://covid19.who.int/ 
+2. https://www.cdc.gov/coronavirus/2019-ncov/index.html 
+3. https://www.covid19india.org/
+4. https://www.worldometers.info/coronavirus/?%3D%3D
 
 
 
