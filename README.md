@@ -5,7 +5,7 @@ Our idea is to create an app which can help in preventing the spread of future e
   ## Team Members
 
 1. Sashvath Shankar- 15-year old science & statistics enthusiast
-2. Sanjeev Subrahmaniyan- 
+2. Sanjeev Subrahmaniyan- 15yo, Physics, Computation and math fanatic
 3. Jay Krishna K- 15-year old tech & science enthusiast
 
 
