@@ -32,7 +32,7 @@ Our idea is to create an app which can help in preventing the spread of future e
 ### Update 1 - 8 Hours Mark
 * *Have you made any new Ideas?*
 
-So far,we've have come up with a few different implementations of our ideas along with some ways to build upon on our basic idea.We have made a few changes to make it expandable,easy to use and increase its functionality even in the long run.
+So far,we've have come up with a few different implementations of our ideas along with some ways to build upon on our basic idea.We have made a few changes to make it expandable,easy to use and increase its functionality in the long run.
 
 * *As a team, write a brief paragraph about what problem your team is trying to solve?*
 
