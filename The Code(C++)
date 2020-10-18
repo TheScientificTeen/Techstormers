@@ -37,7 +37,7 @@ int main()
              }
              else{
                 cout<< "\n Looks like you have quite some risk! Take care, stay safe!";
-             }
+             }// The server automatically diagnoses the user of any risks and updates itself on the application. This is later abstracted and is provided to the user.
         }
         else{
             cout<<"\n thank you for answering, you may proceed";
