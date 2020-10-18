@@ -4,9 +4,9 @@ Our idea is to create an app which can help in preventing the spread of future e
 
   ## Team Members
 
-Sashvath Shankar- 15-year old science & statistics enthusiast
-Sanjeev Subrahmaniyan- 
-Jay Krishna K- 15-year old tech & science enthusiast
+1.Sashvath Shankar- 15-year old science & statistics enthusiast
+2.Sanjeev Subrahmaniyan- 
+3.Jay Krishna K- 15-year old tech & science enthusiast
 
 
 ## Updates
@@ -45,11 +45,11 @@ We've chosen the topic of public health with regard/respect to epidemiology.
 * *Could you list the ideas you plan to implement in your project?**
 
 List of ideas we are trying to implement:
-Make relevant data available to the public.
-Possibly reduce time and money spent on contact tracing .
-Make the public more aware in terms of spread of infection
-Make an app which can be easily updated to adapt to suit future pandemics as well.
-Make it user friendly/easy to interact with.
+1.Make relevant data available to the public.
+2.Possibly reduce time and money spent on contact tracing .
+3.Make the public more aware in terms of spread of infection
+4.Make an app which can be easily updated to adapt to suit future pandemics as well.
+5.Make it user friendly/easy to interact with.
 
 * *What language (programming) are you using?*
 
