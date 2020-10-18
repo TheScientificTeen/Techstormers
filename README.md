@@ -23,7 +23,7 @@ Yes, we have continued to build up on our core ideas and have made improvements 
 
 * *Could you list some more ideas you plan to implement in your project?*
 
-we have implemented a few more ideas into our project such as:
+We have implemented a few more ideas into our project such as:
 1. We've added a home page. 
 2. Live covid 19 data in the home page. 
 3. We've added an interactive map whihc allows the user to select the area and the time slot. 
