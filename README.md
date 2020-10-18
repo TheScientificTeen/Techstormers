@@ -69,7 +69,7 @@ So far this has been a very fun first experience of a hackathon to all of us and
 
 **Presentation Link** : https://github.com/TheScientificTeen/Techstormers/blob/main/Techstormers%20presentation%20-converted.pdf
 
-**Video Link (OPTIONAL)** :https://github.com/TheScientificTeen/Techstormers/blob/main/Representation%20of%20the%20app.mp4
+**Video Link (OPTIONAL)** : https://github.com/TheScientificTeen/Techstormers/blob/main/Representation%20of%20the%20app.mp4
 
 ### References and Acknowledges
 
